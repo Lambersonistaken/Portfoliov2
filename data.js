@@ -48,7 +48,7 @@ window.PORTFOLIO = {
     {
       num: "02",
       name: "Chat With PDF",
-      desc: "This project is an innovative web application that allows users to interact with PDFs in a conversational format. Built using modern web technologies, it leverages Next.js for server-side rendering, AWS S3 for file storage, React and JavaScript for a dynamic frontend experience, and integrates the ChatGPT API for intelligent conversation capabilities. Additionally, it utilizes PineconeDB and NeonDB for efficient data storage and retrieval, with Clerk providing secure user authentication and management.",
+      desc: "This project is an innovative web application that allows users to interact with PDFs in a conversational format. Built using modern web technologies, it leverages Next.js for server-side rendering, AWS S3 for file storage, React and JavaScript for a dynamic frontend experience, and integrates the ChatGPT API for intelligent conversation capabilities. Additionally, it utilizes PineconeDB and NeonDB for efficient data storage and retrieval (RAG), with Clerk providing secure user authentication and management.",
       tags: ["Next.js", "ChatGPT API", "PineconeDB", "AWS S3", "Clerk"],
       placeholder: "Chat interface preview",
       image: "assets/chatpdfapp.png",
@@ -77,7 +77,7 @@ window.PORTFOLIO = {
   experience: [
     { 
       num: "E.01", 
-      role: "Founding Engineer", 
+      role: "Full Stack Engineer", 
       org: "Stash", 
       period: "March 2025 — March 2026", 
       logo: "assets/stash-logo.svg",
